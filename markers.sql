@@ -1,0 +1,10 @@
+insert into markers (name, lat, lng) values ('1', '32.165', '108.8822222');
+insert into markers (name, lat, lng) values ('2', '9.914487', '-84.179403');
+insert into markers (name, lat, lng) values ('3', '0.5987602', '124.297718');
+insert into markers (name, lat, lng) values ('4', '30.2979687', '120.1561748');
+insert into markers (name, lat, lng) values ('5', '40.62889', '20.05389');
+insert into markers (name, lat, lng) values ('6', '26.641315', '100.222545');
+insert into markers (name, lat, lng) values ('7', '20.8965838', '-105.4093552');
+insert into markers (name, lat, lng) values ('8', '59.207544', '17.8277745');
+insert into markers (name, lat, lng) values ('9', '36.097577','114.392392');
+insert into markers (name, lat, lng) values ('10', '15.1614193', '100.1087187');
