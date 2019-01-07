@@ -1,7 +1,7 @@
 <?php
 //DB params
 $db_username = 'mapsuser';
-$db_password = '5428';
+$db_password = '0000';
 $db_name = 'markers';
 $db_host = 'localhost';
 
